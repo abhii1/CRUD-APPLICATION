@@ -22,7 +22,7 @@ Application will ask user to enter there connection String in the command line i
 
 <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="42" height="42">
 
-- [X] GitHub : https://github.com/abhii1/CRUD-APP
+- [X] GitHub : https://github.com/abhii1/CRUD-APPLICATION
 
 
 
