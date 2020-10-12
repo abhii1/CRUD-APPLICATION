@@ -82,7 +82,13 @@ docker build -t crudapp(or any name):latest .
 
 ## Quickstart
 
->Install docker image from docker hub after installion you need to just enter 
+>AFTER INSTALLATION USER NEED TO RUN THIS COMMAND IN COMMAND PROMPT OR POWERSHELL
+
+```
+docker run -it crudapp(or name you have created)
+
+```
+
 
 
 
